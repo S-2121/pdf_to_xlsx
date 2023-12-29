@@ -1,0 +1,922 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:h="http://www.w3.org/TR/REC-html40">
+<Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+    <Alignment ss:Vertical="Top"/><Borders/>
+    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size ="11" ss:Color ="#000000"/>
+    <Interior/>
+    <NumberFormat/>
+    <Protection/>
+  </Style>
+  <Style ss:ID="wrap">
+    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+  </Style>
+</Styles>
+<Worksheet ss:Name="page 1">
+<Table>
+  <Column ss:AutoFitWidth="0" ss:Width="23"/>
+  <Column ss:AutoFitWidth="0" ss:Width="49"/>
+  <Column ss:AutoFitWidth="0" ss:Width="75"/>
+  <Column ss:AutoFitWidth="0" ss:Width="37"/>
+  <Column ss:AutoFitWidth="0" ss:Width="40"/>
+  <Column ss:AutoFitWidth="0" ss:Width="41"/>
+  <Column ss:AutoFitWidth="0" ss:Width="137"/>
+  <Column ss:AutoFitWidth="0" ss:Width="75"/>
+  <Column ss:AutoFitWidth="0" ss:Width="41"/>
+  <Column ss:AutoFitWidth="0" ss:Width="29"/>
+  <Column ss:AutoFitWidth="0" ss:Width="29"/>
+  <Column ss:AutoFitWidth="0" ss:Width="25"/>
+  <Column ss:AutoFitWidth="0" ss:Width="25"/>
+  <Column ss:AutoFitWidth="0" ss:Width="48"/>
+  <Column ss:AutoFitWidth="0" ss:Width="53"/>
+  <Column ss:AutoFitWidth="0" ss:Width="35"/>
+  <Column ss:AutoFitWidth="0" ss:Width="35"/>
+  <Column ss:AutoFitWidth="0" ss:Width="35"/>
+  <Column ss:AutoFitWidth="0" ss:Width="26"/>
+  <Column ss:AutoFitWidth="0" ss:Width="53"/>
+  <Column ss:AutoFitWidth="0" ss:Width="35"/>
+  <Column ss:AutoFitWidth="0" ss:Width="35"/>
+  <Column ss:AutoFitWidth="0" ss:Width="35"/>
+  <Column ss:AutoFitWidth="0" ss:Width="45"/>
+ <Row>
+  <Cell><Data ss:Type="String"><h:Font h:Size="15">Evaluation Only. Created with Aspose.PDF. Copyright 2002-2023 Aspose Pty Ltd.</h:Font><h:Font h:Size="16">20</h:Font><h:Font h:Size="13">00</h:Font><h:Font h:Size="16">학년도</h:Font><h:Font h:Size="13"> 4</h:Font><h:Font h:Size="16">월 전국연합학력평가 성적일람표1(학급별)</h:Font></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">학년</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">반</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">학교명</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">학급인원</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">영역별 응시인원 (학급인원/전국인원)</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">실시일</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">국어</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">수학</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">영어</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">한국사</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">탐구</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">1</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">7</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">완주삼봉고등</h:Font><h:Font h:Size="7">등학교</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">8</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">8</h:Font><h:Font h:Size="7"> / 26654</h:Font><h:Font h:Size="7">9</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">8</h:Font><h:Font h:Size="7"> / 2</h:Font><h:Font h:Size="7">8</h:Font><h:Font h:Size="7">5845</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">8</h:Font><h:Font h:Size="7"> / 268</h:Font><h:Font h:Size="7">1</h:Font><h:Font h:Size="7">01</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">8</h:Font><h:Font h:Size="7"> / 2</h:Font><h:Font h:Size="7">6</h:Font><h:Font h:Size="7">9091</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">8</h:Font><h:Font h:Size="7"> / 26</h:Font><h:Font h:Size="7">2</h:Font><h:Font h:Size="7">051</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">202</h:Font><h:Font h:Size="7">0</h:Font><h:Font h:Size="7">. 7. 1</h:Font><h:Font h:Size="7">4</h:Font><h:Font h:Size="7">.</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">국 어 영 역</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">수 학 영 역</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell ss:StyleID="wrap"><Data ss:Type="String"><h:Font h:Size="7">영 어</h:Font>
+&#10;<h:Font h:Size="7">영 역</h:Font></Data></Cell>
+  <Cell ss:StyleID="wrap"><Data ss:Type="String"><h:Font h:Size="7">한 국 사</h:Font>
+&#10;<h:Font h:Size="7">영 역</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">제1선택</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">탐 구 영 역</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">제2선택</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">번호</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">성 명</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">선택과목</h:Font></Data></Cell>
+  <Cell ss:StyleID="wrap"><Data ss:Type="String"><h:Font h:Size="7">표준</h:Font>
+&#10;<h:Font h:Size="7">점수</h:Font></Data></Cell>
+  <Cell ss:StyleID="wrap"><Data ss:Type="String"><h:Font h:Size="7">학교</h:Font>
+&#10;<h:Font h:Size="7">석차</h:Font></Data></Cell>
+  <Cell ss:StyleID="wrap"><Data ss:Type="String"><h:Font h:Size="7">전국</h:Font>
+&#10;<h:Font h:Size="7">백분위</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">등급</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">선택과목</h:Font></Data></Cell>
+  <Cell ss:StyleID="wrap"><Data ss:Type="String"><h:Font h:Size="7">표준</h:Font>
+&#10;<h:Font h:Size="7">점수</h:Font></Data></Cell>
+  <Cell ss:StyleID="wrap"><Data ss:Type="String"><h:Font h:Size="7">학교</h:Font>
+&#10;<h:Font h:Size="7">석차</h:Font></Data></Cell>
+  <Cell ss:StyleID="wrap"><Data ss:Type="String"><h:Font h:Size="7">전국</h:Font>
+&#10;<h:Font h:Size="7">백분위</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">등급</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">등급</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">등급</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">과목</h:Font></Data></Cell>
+  <Cell ss:StyleID="wrap"><Data ss:Type="String"><h:Font h:Size="7">표준</h:Font>
+&#10;<h:Font h:Size="7">점수</h:Font></Data></Cell>
+  <Cell ss:StyleID="wrap"><Data ss:Type="String"><h:Font h:Size="7">학교</h:Font>
+&#10;<h:Font h:Size="7">석차</h:Font></Data></Cell>
+  <Cell ss:StyleID="wrap"><Data ss:Type="String"><h:Font h:Size="7">전국</h:Font>
+&#10;<h:Font h:Size="7">백분위</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">등급</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">과목</h:Font></Data></Cell>
+  <Cell ss:StyleID="wrap"><Data ss:Type="String"><h:Font h:Size="7">표준</h:Font>
+&#10;<h:Font h:Size="7">점수</h:Font></Data></Cell>
+  <Cell ss:StyleID="wrap"><Data ss:Type="String"><h:Font h:Size="7">학교</h:Font>
+&#10;<h:Font h:Size="7">석차</h:Font></Data></Cell>
+  <Cell ss:StyleID="wrap"><Data ss:Type="String"><h:Font h:Size="7">전국</h:Font>
+&#10;<h:Font h:Size="7">백분위</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">등급</h:Font></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">1</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">가나다</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">언어와 매체</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">124</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">16</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">86.42</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">3</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">미적분</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">125</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">16</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">86.65</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">3</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">2</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">3</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">물리학I</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">54</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">3</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">68.12</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">4</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">생명과학I</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">60</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">15</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">79.74</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">3</h:Font></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">2</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">라마바</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">언어와 매체</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">106</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">81</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">58.00</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">5</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">미적분</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">114</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">40</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">71.65</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">4</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">4</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">1</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">생명과학I</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">52</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">37</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">59.08</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">4</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">지구과학I</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">44</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">35</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">36.19</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">6</h:Font></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">3</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">사아자</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">언어와 매체</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">137</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">1</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">98.92</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">1</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">미적분</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">135</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">3</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">95.44</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">2</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">1</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">1</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">화학I</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">69</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">1</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">98.76</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">1</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">생명과학I</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">68</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">1</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">96.81</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">1</h:Font></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">4</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">차카타</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">화법과 작문</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">101</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">106</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">50.09</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">5</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">확률과 통계</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">84</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">138</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">31.54</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">6</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">5</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">1</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">세계사</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">57</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">4</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">70.18</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">4</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">사회·문화</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">56</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">9</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">69.03</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">4</h:Font></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">5</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">하하하</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">언어와 매체</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">127</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">12</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">90.38</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">2</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">미적분</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">112</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">43</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">68.68</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">4</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">2</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">1</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">동아시아사</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">61</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">1</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">82.87</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">3</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">물리학I</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">48</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">5</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">50.00</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">5</h:Font></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">6</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">삼봉임</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">언어와 매체</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">118</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">32</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">77.42</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">3</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">확률과 통계</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">104</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">68</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">57.69</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">5</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">2</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">3</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">세계지리</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">60</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">8</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">80.78</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">3</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">정치와 법</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">47</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">3</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">46.11</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">5</h:Font></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">7</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">투썸임</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">화법과 작문</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">78</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">177</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">17.73</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">7</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">확률과 통계</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">92</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">106</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">42.88</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">5</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">4</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">2</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">세계지리</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">48</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">24</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">46.68</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">5</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">한국지리</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">59</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">8</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">79.08</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">3</h:Font></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">8</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">테스트</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">언어와 매체</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">104</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">90</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">54.80</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">5</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">미적분</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">96</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">93</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">47.62</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">5</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">5</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">4</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">화학I</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">46</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">11</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">44.31</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">5</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">생명과학I</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">54</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">31</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">64.52</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">4</h:Font></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">국어 영역</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">수학 영역</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">탐구 영역</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">학급 평균</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">106.0</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">106.4</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">50.0</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">학교 평균</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">99.8</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">96.8</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">50.5</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">전국 평균</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">100.0</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">100.0</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"><h:Font h:Size="7">50.0</h:Font></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+  <Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+ <Row>
+  <Cell><Data ss:Type="String"><h:Font h:Size="8">1/1</h:Font></Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>
