@@ -1,7 +1,7 @@
-# import sys
+import sys
 
-# from PySide6.QtGui import QGuiApplication
-# from PySide6.QtQml import QQmlApplicationEngine
+from PySide6.QtGui import QGuiApplication
+from PySide6.QtQml import QQmlApplicationEngine
 
 import fitz
 from openpyxl import Workbook
@@ -12,19 +12,16 @@ import edit
 source_dir = "./source/"
 dist_dir = "./dist/"
 
-# app = QGuiApplication(sys.argv)
-
-# engine = QQmlApplicationEngine()
-# engine.quit.connect(app.quit)
-# engine.load('main.qml')
-
-# sys.exit(app.exec())
-
-# import tabula
-# dfs = tabula.read_pdf(source_dir+"sample.pdf", pages="all")
-# len(dfs)
 
 if __name__ == '__main__':
+    # app = QGuiApplication(sys.argv)
+
+    # engine = QQmlApplicationEngine()
+    # engine.quit.connect(app.quit)
+    # engine.load('main.qml')
+
+    # sys.exit(app.exec())
+    
     pdf_doc = fitz.open(source_dir+"sample.pdf")
     wb = Workbook()
 
