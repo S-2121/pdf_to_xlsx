@@ -27,16 +27,34 @@ ApplicationWindow {
         anchors.centerIn: parent
         
         columnSpacing: 20
-        rowSpacing: 20
+        rowSpacing: 40
         Text {
             id: title_text
             text: qsTr("아래 버튼을 클릭하여 성적표 PDF 파일을 선택하세요.")
             color: Material.color(Material.Orange)
+            verticalAlignment: Text.AlignVCenter
+            horizontalAlignment: Text.AlignHCenter
+
+            Layout.alignment: Qt.AlignVCenter | Qt.AlignHCenter
         }
         Button {
             id: select_file_button
+            
+
             text: qsTr("파일 찾기")
             Material.foreground: Material.Orange
+
+            Layout.alignment: Qt.AlignVCenter | Qt.AlignHCenter
+
+            MouseArea
+            {
+                id: select_file_button_area
+                signal select_file_signal
+                anchors.fill: parent
+                cursorShape: Qt.PointingHandCursor
+
+                onPressed: select_file_signal()
+            }
         }
     }
 
