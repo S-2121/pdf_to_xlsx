@@ -34,7 +34,7 @@ if __name__ == '__main__':
         edit.init(wb, sheet_name)
         edit.edit_header(wb, sheet_name, header_text_list)
         edit.edit_content(wb, sheet_name, content_text_list)
-
+        
     # Save the file
     # wb.remove(wb.get_sheet_by_name("Sheet"))
     wb.remove(wb["Sheet"])
