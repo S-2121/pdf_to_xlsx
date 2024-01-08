@@ -7,7 +7,6 @@ from PySide6.QtQml import QQmlApplicationEngine, QQmlProperty
 import main
 
 class MainWindow(QQmlApplicationEngine):
-    select_file_signal = Signal()
     def __init__(self):
         super().__init__()
 
