@@ -47,7 +47,7 @@ def init(wb, sheet_name):
         "전국백분위",
         "등급"
     ]
-
+    
     write_list_to_excel(ws,6,2,template_content_sub_title_list[:2],2)
 
     for i in range(2):
