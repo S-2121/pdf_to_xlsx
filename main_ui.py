@@ -21,6 +21,7 @@ class MainWindow(QQmlApplicationEngine):
         self.file_dialog.selected_file_signal.connect(self.selected_file)
 
         self.convert_file_button = self.window.findChild(QObject, "convert_file_button")
+        self.convert_file_button_text = QQmlProperty(self.convert_file_button, "button_text")
         self.convert_file_button.convert_file_signal.connect(self.convert_file)
 
     @Slot()
@@ -28,10 +29,11 @@ class MainWindow(QQmlApplicationEngine):
         file_path = file_url.split("file:///")[1]
         # file_name = file_url.split("/")[-1]
         self.file_title_name.write(file_path)
+        self.convert_file_button_text.write("파일 변환")
     
     @Slot()
     def convert_file(self, file_path):
-        main.load_file(file_path)
+        main.load_file(self, file_path)
 
 if __name__ == '__main__':
     app = QGuiApplication(sys.argv)

@@ -2,10 +2,13 @@ import fitz
 
 def conv_header(page):
     # set ROI for the header
+    print("convert_header")
+
     page.set_cropbox(fitz.Rect(0, 0, 841, 101)) # set a cropbox for the page
+    
     header_text = page.get_text()
     header_text_list = header_text.split("\n")
-    
+
     grade_num = header_text_list[24]
     class_num = header_text_list[25]
     school_name = header_text_list[12]
@@ -29,15 +32,18 @@ def conv_header(page):
         research_test_takers_num,
         date
         ]
-
+    
     return header_text_list
 
 def conv_content(page):
     # set ROI for the content
+    print("convert_content")
+
     page.set_cropbox(fitz.Rect(0, 145, 98, 433)) # set a cropbox for the page
+
     content_text = page.get_text()
     content_text_list = content_text.split("\n")
-    
+
     student_score_list = []
 
     for i in range(int((len(content_text_list)-1)/2)):

@@ -74,9 +74,9 @@ ApplicationWindow {
             id: convert_file_button
             objectName: "convert_file_button"
 
-            
+            property string button_text: "파일 변환"
             signal convert_file_signal(string str)
-            text: qsTr("파일 변환")
+            text: qsTr(button_text)
             Material.foreground: Material.Orange
 
             Layout.alignment: Qt.AlignVCenter | Qt.AlignHCenter
