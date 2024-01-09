@@ -34,9 +34,18 @@ def load_file(parent = None, file_path = "./"):
 
         # Save the file
         ws_name_list = wb.sheetnames
+        
         if "Sheet" in ws_name_list:
             wb.remove(wb["Sheet"])
-        wb.save(dist_dir+"sample.xlsx")
+        
+        date = header_text_list[-1].replace('.','')
+        date = date.replace(' ','')
+        grade = header_text_list[0]
+
+        file_name = f"{dist_dir}{date}_{grade}학년_성적표.xlsx"
+
+        wb.save(file_name)
+        
 
         if parent:
             parent.convert_file_button_text.write("변환 완료")

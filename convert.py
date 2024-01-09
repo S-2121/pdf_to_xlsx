@@ -5,10 +5,13 @@ def conv_header(page):
     print("convert_header")
 
     page.set_cropbox(fitz.Rect(0, 0, 841, 101)) # set a cropbox for the page
+
+    img = page.get_pixmap()
+    img.save("test.png")
     
     header_text = page.get_text()
     header_text_list = header_text.split("\n")
-
+    
     grade_num = header_text_list[24]
     class_num = header_text_list[25]
     school_name = header_text_list[12]
@@ -31,7 +34,7 @@ def conv_header(page):
         kor_history_test_takers_num,
         research_test_takers_num,
         date
-        ]
+    ]
     
     return header_text_list
 
