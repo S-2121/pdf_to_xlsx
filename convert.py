@@ -5,9 +5,6 @@ def conv_header(page):
     print("convert_header")
 
     page.set_cropbox(fitz.Rect(0, 0, 841, 101)) # set a cropbox for the page
-
-    img = page.get_pixmap()
-    img.save("test.png")
     
     header_text = page.get_text()
     header_text_list = header_text.split("\n")
